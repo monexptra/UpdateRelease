@@ -1,1 +1,1 @@
-1.0.80|
+1.0.1|https://github.com/MonthlyExpensesTracker/UpdateRelease/releases/download/ExpensesTracker_v1.0.0/ExpensesTracker.exe
